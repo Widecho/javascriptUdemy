@@ -1,1 +1,1 @@
-let const var = 1;
+let const varka = 1;
